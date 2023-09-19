@@ -1,2 +1,3 @@
 # hulu-commerce
-project that i have worked on
+online product shoping system that customers see product detail and order product 
+
